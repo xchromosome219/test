@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Bubble Plot](https://github.com/xchromosome219/test/Bubble_Chart.html)
+[Bubble Plot](https://xchromosome219.github.io/test/Bubble_Chart.html)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xchromosome219/test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
